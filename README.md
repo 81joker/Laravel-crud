@@ -1,9 +1,9 @@
-# cp .env.example .env
+1- cp .env.example .env
 
-# php artisan key:generate
+2- php artisan key:generate
 
-# composer install
+3- composer install
 
-# npm install && npm run dev
+4- npm install && npm run dev
 
-# php artisan make:migrate --seed
+5- php artisan make:migrate --seed
